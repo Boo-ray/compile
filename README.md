@@ -1,6 +1,9 @@
 # compile
 Compilatore fasullo che non fa niente! Praticamente ti mostra solo il cazzo che me ne fotte, molto grande, vasto e incommensurabile.
 
+<b>Versione 1.0.1</b>
+Aggiunte buone maniere.
+
 <b>Versione 1.0</b>
 Finalmente una buona versione per questo compilatore di merda, ci sono infatti tutti i file che ci devono stare, e non è un compilatore!!!
 

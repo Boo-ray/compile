@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Sono un preprocesso\n");
+	printf("Ciao, io sono un preprocesso\n"); //Saluta perché educato
 	return 0;
 }
